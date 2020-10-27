@@ -2,7 +2,7 @@ package guru.springframework;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//karl 2
+//karl 2333
 @SpringBootApplication
 public class SpringCoreDevOpsApplication {
 
